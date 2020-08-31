@@ -11,14 +11,12 @@ Here, we show some visualization results(from DAVIS 2017[1]).
   - mask color represents pixel class.
 
 ### 1. Video: Camel
-
-![camel-img](imgs/camel-img.gif)
-![camel-anno](imgs/camel-anno.gif)
+<img src="imgs/camel-img.gif" alt="camel-img" style="zoom: 50%;" />
+<img src="imgs/camel-anno.gif" alt="camel-anno" style="zoom: 50%;" />
 
 ### 2. Video: Soapbox
-
-![soapbox-img](imgs/soapbox-img.gif)
-![soapbox-anno](imgs/soapbox-anno.gif)
+<img src="imgs/soapbox-img.gif" alt="soapbox-img" style="zoom: 50%;" />
+<img src="imgs/soapbox-anno.gif" alt="soapbox-anno" style="zoom: 50%;" />
 
 ## Dataset
 
