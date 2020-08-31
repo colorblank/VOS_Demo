@@ -12,13 +12,13 @@ Here, we show some visualization results(from DAVIS 2017[1]).
 
 ### 1. Video: Camel
 
-![camel-img](C:\Users\zhangyu\Documents\图床文件夹\camel-img.gif)
-![camel-anno](C:\Users\zhangyu\Documents\图床文件夹\camel-anno.gif)
+![camel-img](imgs/camel-img.gif)
+![camel-anno](imgs/camel-anno.gif)
 
 ### 2. Video: Soapbox
 
-![soapbox-img](C:\Users\zhangyu\Documents\图床文件夹\soapbox-img.gif)
-![soapbox-anno](C:\Users\zhangyu\Documents\图床文件夹\soapbox-anno.gif)
+![soapbox-img](imgs/soapbox-img.gif)
+![soapbox-anno](imgs/soapbox-anno.gif)
 
 ## Dataset
 
