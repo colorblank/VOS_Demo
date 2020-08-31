@@ -25,7 +25,7 @@ Here, we show some visualization results(from DAVIS 2017[1]).
 | DAVIS 2017 val set | J mean | J recall | J decay | F mean | F recall | F decay | G mean |
 | ------------------ | ------ | -------- | ------- | ------ | -------- | ------- | ------ |
 | performance        | 0.6736 | 0.7989   | 0.1750  | 0.7273 | 0.8513   | 0.1981  | 0.7004 |
-|                    |        |          |         |        |          |         |        |
+|      baseline[2]   |   -    |   -      |    -    |    -   |     -    |    -    | 0.6880 |
 
 - J means IoU;
 - F means F1-score;
@@ -35,3 +35,4 @@ Here, we show some visualization results(from DAVIS 2017[1]).
 ## Reference
 
 [1]Pont-Tuset J, Perazzi F, Caelles S, et al. The 2017 davis challenge on video object segmentation[J]. arXiv preprint arXiv:1704.00675, 2017.
+[2]Robinson A, Lawin F J, Danelljan M, et al. Learning Fast and Robust Target Models for Video Object Segmentation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 7406-7415.
